@@ -6,7 +6,7 @@ Para alterar, basta atualizar o Dockerfile ou docker-compose.
 
 Para adicionar depências, pode ser adicionado no arquivo requirements.txt, que é utilizado pelo Dockerfile para instalar através do pip.
 
-# Modo de utilização
+## Modo de utilização
 
 Para iniciar os containers, basta rodar o comando:
 
